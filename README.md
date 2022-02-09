@@ -1,6 +1,6 @@
-# Probabilidad y estadistica:
+# Probability and statistics
 
-### Curso de probabilidad y estadistica del Colegio Universitario IES21.
+### Probability and statistics course of the IES21 University College
 
 Los temas desarrollados en el curso son:
 
